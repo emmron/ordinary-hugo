@@ -1,4 +1,4 @@
-baseURL = 'https://emmron.github.io '
+baseURL = "https://staging.ordinaryagency.com.au"
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
