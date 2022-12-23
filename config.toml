@@ -1,4 +1,4 @@
-baseURL = "https://emmron.github.io"
+baseURL = "https://emmron.github.io/ordinary-hugo/"
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
